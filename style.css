@@ -1,41 +1,15 @@
-/* style.css */
-
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
-
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #f0f2f5;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    color: #333;
-}
-
-header {
-    margin-bottom: 20px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: #f4f4f4;
 }
 
 h1 {
-    font-size: 2.5rem;
-    color: #2c3e50;
+    color: #333;
 }
 
 p {
     font-size: 1.2rem;
     color: #555;
 }
-
-footer {
-    margin-top: 40px;
-    font-size: 0.9rem;
-    color: #888;
-}
-
-< !DOCTYPE html><html lang="en"><head><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>My Project</title><link rel="stylesheet" href="style.css" /></head><body><header><h1>Welcome to My Project</h1><p>This is the initial setup of my repository.</p></header><footer>&copy;
-2025 My Project </footer></body></html>
